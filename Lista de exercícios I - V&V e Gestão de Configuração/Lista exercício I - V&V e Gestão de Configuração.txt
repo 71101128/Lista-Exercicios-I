@@ -1,6 +1,19 @@
 Lista exercício I - V&V e Gestão de Configuração
 
 1. Qual o principal objetivo da validação e verificação? 
+	> Validação: estamos construindo o produto correto?
+		Ela mostra que o sw realiza o que o cliente	espera que ele faça
+
+		Especificações de software nem sempre refletem os reais desejos ou 
+		necessidades dos usuários
+
+	> Verificação: estamos construindo o produto corretamente?
+		Envolve verificar se o software 
+		está de acordo com as especificações
+
+		Verificar se ele atende aos requisitos 
+		funcionais e não-funcionais especificados
+
 
 2. Qual a diferença entre validação e verificação? 
 
