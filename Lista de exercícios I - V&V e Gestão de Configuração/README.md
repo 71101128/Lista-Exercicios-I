@@ -1,18 +1,17 @@
-Lista exercício I - V&V e Gestão de Configuração
+# Lista exercício I - V&V e Gestão de Configuração
 
 ##1. Qual o principal objetivo da validação e verificação? 
 	> Validação: estamos construindo o produto correto?
-		Ela mostra que o sw realiza o que o cliente	espera que ele faça
+		
+		>Ela mostra que o sw realiza o que o cliente espera que ele faça
 
-		Especificações de software nem sempre refletem os reais desejos ou 
-		necessidades dos usuários
+		>Especificações de software nem sempre refletem os reais desejos ou necessidades dos usuários
 
 	> Verificação: estamos construindo o produto corretamente?
-		Envolve verificar se o software 
-		está de acordo com as especificações
+		
+		>Envolve verificar se o software está de acordo com as especificações
 
-		Verificar se ele atende aos requisitos 
-		funcionais e não-funcionais especificados
+		>Verificar se ele atende aos requisitos funcionais e não-funcionais especificados
 
 
 ##2. Qual a diferença entre validação e verificação? 
@@ -47,8 +46,9 @@ teste de aceitação pode ser subdividido em quais tipos de teste? Explique cada
 
 ##14. Quais são as principais tarefas dentro de um Processo de Gerência de Configuração de Software? 
 
-##15. O que são itens de configuração? 16. Qual a importância do controle de versão durante o desenvolvimento 
-de um software? 
+##15. O que são itens de configuração? 
+
+##16. Qual a importância do controle de versão durante o desenvolvimento de um software? 
 
 ##17. Imagine uma situação em que 2 desenvolvedores estão alterando 3 componentes de software simultaneamente. 
 Quais dificuldades podem surgir ao tentar realizar o merge das mudanças? 
@@ -57,11 +57,3 @@ Quais dificuldades podem surgir ao tentar realizar o merge das mudanças?
 configurações. 
 
 ##19. Explique porque é essencial que cada versão de um componente seja identificada unicamente.
-
-
-
-
-
-
-	
-	
