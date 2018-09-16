@@ -1,3 +1,5 @@
+[VOLTAR](https://github.com/71101128/Lista-Exercicios-I)
+
 # Lista exercício I - V&V e Gestão de Configuração
 
 ## 1. Qual o principal objetivo da validação e verificação? 
@@ -55,3 +57,5 @@ Quais dificuldades podem surgir ao tentar realizar o merge das mudanças?
 configurações. 
 
 ## 19. Explique porque é essencial que cada versão de um componente seja identificada unicamente.
+
+[VOLTAR](https://github.com/71101128/Lista-Exercicios-I)
