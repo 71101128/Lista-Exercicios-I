@@ -13,8 +13,8 @@
 
 ## 2. Qual a diferença entre validação e verificação? 
  	
-	> A validação foca em confirmar se o produto de acordo com a expectativa do usuário
- 	> A verificação foca em confirmar se o produto segue a documentação e as boas práticas
+> A validação foca em confirmar se o produto de acordo com a expectativa do usuário
+> A verificação foca em confirmar se o produto segue a documentação e as boas práticas
 
 ## 3. Qual a diferença entre as técnicas de validação e verificação dinâmica e estática? Dê exemplos. 
 
