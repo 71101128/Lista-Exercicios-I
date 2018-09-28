@@ -157,7 +157,7 @@
 * Tempo gasto para acessar a base de dados.
 * Número de operações executadas.
 
-##10. O teste de aceitação pode ser subdividido em quais tipos de teste? Explique cada tipo identificado. 
+## 10. O teste de aceitação pode ser subdividido em quais tipos de teste? Explique cada tipo identificado. 
 * Testes funcionais
 * Verificação do atendimento dos requisitos funcionais. 
 * Testes de sistema
