@@ -43,11 +43,9 @@
 
 ## 7. Quais os 7 princípios do teste? 
 
-## 8. Defina teste de integração, teste de unidade, teste de aceitação, teste de regressão, teste de sistema e 
-teste de desempenho. 
+## 8. Defina teste de integração, teste de unidade, teste de aceitação, teste de regressão, teste de sistema e teste de desempenho. 
 
-## 9. Quais os principais exemplos de testes de desempenho? Cite aplicações práticas para cada exemplo. 10. O 
-teste de aceitação pode ser subdividido em quais tipos de teste? Explique cada tipo identificado. 
+## 9. Quais os principais exemplos de testes de desempenho? Cite aplicações práticas para cada exemplo. 10. O teste de aceitação pode ser subdividido em quais tipos de teste? Explique cada tipo identificado. 
 
 ## 11 . O que é teste caixa branca e teste de caixa preta? 
 
@@ -65,11 +63,9 @@ teste de aceitação pode ser subdividido em quais tipos de teste? Explique cada
 
 ## 16. Qual a importância do controle de versão durante o desenvolvimento de um software? 
 
-## 17. Imagine uma situação em que 2 desenvolvedores estão alterando 3 componentes de software simultaneamente. 
-Quais dificuldades podem surgir ao tentar realizar o merge das mudanças? 
+## 17. Imagine uma situação em que 2 desenvolvedores estão alterando 3 componentes de software simultaneamente. Quais dificuldades podem surgir ao tentar realizar o merge das mudanças? 
 
-## 18. Sugira 3 problemas que podem surgir caso uma empresa não desenvolva políticas de gerência de 
-configurações. 
+## 18. Sugira 3 problemas que podem surgir caso uma empresa não desenvolva políticas de gerência de configurações. 
 
 ## 19. Explique porque é essencial que cada versão de um componente seja identificada unicamente.
 
