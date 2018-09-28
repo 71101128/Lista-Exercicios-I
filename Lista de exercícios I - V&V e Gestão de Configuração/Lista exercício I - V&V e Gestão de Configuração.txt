@@ -20,8 +20,21 @@ Lista exercício I - V&V e Gestão de Configuração
  	> A verificação foca em confirmar se o produto segue a documentação e as boas práticas
 
 ##3. Qual a diferença entre as técnicas de validação e verificação dinâmica e estática? Dê exemplos. 
+	> Dinâmica
+		código fonte
+		documento de requisitos
+		modelo de projeto
+		qualquer representação legível do software
+	> Estática
+		código fonte
+		documento de requisitos
+		modelo de projeto
+		qualquer representação legível do software
 
 ##4. Qual o objetivo da inspeção de software? 
+A inspeção deverá focar:
+detecção de erros conformidade aos padrões
+programação de baixa qualidade (conhecida gambiarra ou POG)
 
 ##5. Em quais artefatos são realizadas inspeções de software? 
 
